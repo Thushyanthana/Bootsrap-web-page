@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  baseurl:'https://frontend.51-132-159-30.nip.io/api/'
 };
 
 /*

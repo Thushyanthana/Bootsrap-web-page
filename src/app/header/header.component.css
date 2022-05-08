@@ -1,0 +1,66 @@
+.imbuy {
+    width: 75%;
+    height: 40px;
+    vertical-align: middle;
+}
+
+#btn-sign {
+    /* width: 50%; */
+    height: 46px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+#make {
+    /* width: 50%; */
+    height: 46px;
+    padding-left: 2px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+#LocationIcon {
+    font-size: 1.33333333em;
+    line-height: .75em;
+    vertical-align: -15%;
+    /* height: 30px; */
+    padding-left: 1rem;
+    padding-right: 0.5rem;
+}
+
+.header {
+    padding: 8px 25px 8px 10px;
+}
+
+#search {
+    height: 46px;
+}
+
+#searchIcon {
+    font-size: 1.33333333em;
+    height: 28px;
+    vertical-align: -15%;
+}
+
+#text {
+    font-size: 12px;
+}
+
+#bottomText {
+    font-weight: bold;
+}
+
+.signinIcon {
+    font-size: 25px;
+}
+
+#Makepay {
+    font-size: 25px;
+}
+
+#cir {
+    width: 50px;
+    height: 50px
+}

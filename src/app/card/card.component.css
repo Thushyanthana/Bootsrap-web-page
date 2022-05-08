@@ -1,0 +1,87 @@
+.imgcardStyle {
+    width: 300px;
+    height: 300px;
+}
+
+.card-title {
+    font-weight: bold;
+    height: 50px;
+}
+
+.scrolling-wrapper {
+    padding-right: 0;
+    overflow: auto;
+    white-space: nowrap;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
+
+.mh {
+    min-height: 50px;
+}
+
+
+/* .textLimit {
+    word-break: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    line-height: 16px;
+    max-height: 32px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+} */
+
+.text-truncate-container {
+    width: 250px;
+}
+
+.text-truncate-container p {
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.text-start {
+    text-align: left;
+}
+
+.ot {
+    white-space: normal;
+}
+
+.mb {
+    margin-bottom: 0.5rem
+}
+
+.p-0 {
+    padding: 0px;
+}
+
+.tbg {
+    background: #eaeaea;
+}
+
+.text-muted {
+    --bs-text-opacity: 1;
+    color: #6c757d!important;
+}
+
+.pb-1 {
+    padding-bottom: 0.25rem
+}
+
+.px-1 {
+    padding-right: 0.25rem!important;
+    padding-left: 0.25rem
+}
+
+.me-1 {
+    margin-right: 0.25rem
+}
+
+.sot {
+    font-size: 12px;
+}
